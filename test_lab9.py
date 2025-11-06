@@ -1,3 +1,4 @@
+# DO NOT CHANGE THIS FILE, OR ZERO MARK WILL BE ASSIGNED.
 import unittest
 import numpy as np
 import os
